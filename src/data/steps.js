@@ -140,7 +140,7 @@ export const tutorialSteps = [
     number: 18,
     title: "Silahkan upload bukti pendaftaran sebagai verifikasi Anda adalah mahasiswa",
     description:
-      "Berikut dokumen yang dapat diterima/diverifikasi",
+      "Berikut dokumen yang dapat diterima/diverifikasi https://support.sheerid.com/id/67c8c14f5f17a83b745e3f82/help-center/student",
     image: "/assets/steps/manual/step18.jpeg",
   },
   {
